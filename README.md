@@ -5,3 +5,4 @@
 ## List of examples:
 
 - [Trapezoidal Grid](/trapezoidal-grid/)
+- [Disappearing Circles](/disappearing-circles/)
