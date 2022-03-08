@@ -6,3 +6,4 @@
 
 - [Trapezoidal Grid](/trapezoidal-grid/)
 - [Disappearing Circles](/disappearing-circles/)
+- [Rotating Rectangles](/rotating-rectangles/)
